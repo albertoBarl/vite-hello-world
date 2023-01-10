@@ -2,14 +2,14 @@
 export default{
   data(){
     return{
-      saluto:"Hello World!"
+      saluto:"La mia prima app con Vite!"
     }
   }
 }
 </script>
 
 <template>
-<div class="bg-danger">{{ saluto }}</div>
+<div>{{ saluto }}</div>
 </template>
 
 <style scoped>
