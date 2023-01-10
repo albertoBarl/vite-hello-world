@@ -9,7 +9,7 @@ export default{
 </script>
 
 <template>
-<div>{{ saluto }}</div>
+<h1>{{ saluto }}</h1>
 </template>
 
 <style scoped>
