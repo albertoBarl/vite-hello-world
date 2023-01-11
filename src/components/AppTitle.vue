@@ -1,5 +1,6 @@
 <script>
 export default{
+  name:"AppTitle",
   data(){
     return{
       saluto:"La mia prima app con Vite!"

@@ -1,5 +1,6 @@
 <script>
 export default{
+  name:"Jumbotron",
   data(){
     return{
       image:"https://www.lacasadelrap.com/wp-content/uploads/2022/06/image-2-1140x694.webp"
